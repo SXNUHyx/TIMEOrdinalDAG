@@ -1,0 +1,10 @@
+{
+  "OrdinalEffects.R": "00a46d391fd619bdb21263661022db321a706a120a874bf202fe037cb4b0ab52",
+  "Application/OptC.r": "d357dfffa332822455d5f966577007bda4c407cd0b0002b7b9796d46f06708d5",
+  "Application/final_data.r": "8fa61e8bb7bf276c9199e08de91660df5fd488a1e8dc772ea0c116b738fab1cd",
+  "OSEMSource/R/initpar.R": "f18287b1b8215e6bb18426a1cc7f25e94ae07765d1dabdefceeb300b3342ffdf",
+  "OSEMSource/R/OrdinalScore.R": "4f4e2c4f05652c8cb20694078b5f1f0fb67d1cd99e92a94a28bfd4a9bb08a2c0",
+  "OSEMSource/R/usrscorefns.R": "80f25c2e547bb1cc3bad5258b72a9b3ba853f2863837596cf6acddff3ee769e6",
+  "OSEMSource/R/scoreagainstdag.R": "4da7b351acea593e58d32c812fc22b3bdfec384baa36d81fa8aaabd7c011fffe",
+  "OSEMSource/R/spacefns.R": "52181a1c9b1e8ba2206555b130dab60e6be5ea88e613528fe590d79b02a0605c"
+}
